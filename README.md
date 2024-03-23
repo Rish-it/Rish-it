@@ -1,4 +1,4 @@
-# Hi, I'm Rishit Sharma 👋
+# Hi, I'm Rishit Sharma 👋=🍎
 
 ###  About me:
 Hey! I'm Rishit, a final year CS student from India, a software developer who loves to build products that make this world a better place to live.
@@ -13,7 +13,7 @@ Right now I am looking for new opportunities while making personal projects and 
 
 <!--   
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rishitsharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishitsharma" /></a></p><br><br> --> # Hi, I'm Rishit Sharma 👋
+<p><a href="https://www.buymeacoffee.com/rishitsharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishitsharma" /></a></p><br><br> --> # Hi, I'm Rishit Sharma 👋=🍎
 
 ### Important Links:
 
@@ -36,4 +36,4 @@ Right now I am looking for new opportunities while making personal projects and 
 
 <!--   
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rishitsharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishitsharma" /></a></p><br><br> --> # Hi, I'm Rishit Sharma 👋
+<p><a href="https://www.buymeacoffee.com/rishitsharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishitsharma" /></a></p><br><br> --> # Hi, I'm Rishit Sharma 👋=🍎
