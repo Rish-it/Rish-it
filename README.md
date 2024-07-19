@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rishit+Sharma!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<!--<div align=center>
   <img width=390 src="https://github-readme-streak-stats-Rish-it.vercel.app/?user=Rish-it&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-Rish-it.vercel.app/api?username=Rish-it&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
