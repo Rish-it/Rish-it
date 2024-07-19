@@ -22,9 +22,6 @@
   <a href="https://linkedin.com/in/rishittsharma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
- <!-- <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
@@ -39,7 +36,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rish-it/Rish-it/output/github-contribution-grid-snake.svg" />
@@ -56,7 +53,7 @@
   <img width=390 src="https://github-readme-stats-Rish-it.vercel.app/api?username=Rish-it&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Rish-it.vercel.app/api/top-langs/?username=Rish-it&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> -->
 
 <br/><br/>
 
