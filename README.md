@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on building a detoxify application to help clear your YouTube feed for focused learning.<br>👯 I’m looking to collaborate on: DevOpsprojects.<br>🤝 I’m looking for help with a better understanding of Horizontal Pod Autoscaling (HPA) and Node autoscaling.<br>🌱 I’m currently learning: Kubernetes.<br>💬 Ask me about: the MERN stack, Salesforce CLI, and DevOps tools.<br>⚡ Fun fact: I’m Rishit, a computer science graduate student from India, and I’m passionate about building products that make the world a better place. I thrive on Web Development and DevOps, and I’m constantly polishing my skills in DevOps. Recently, I’ve started diving into Salesforce development to broaden my expertise and get my hands dirty with new challenges.
+🔭 I’m currently working on building a detoxify application to help clear your YouTube feed for focused learning.<br>👯 I’m looking to collaborate on: DevOps Projects.<br>🤝 I’m looking for help with a better understanding of Horizontal Pod Autoscaling (HPA) and Node autoscaling.<br>🌱 I’m currently learning: Kubernetes.<br>💬 Ask me about: the MERN stack, Salesforce CLI, and DevOps tools.<br>⚡ Fun fact: I’m Rishit, a computer science graduate student from India, and I’m passionate about building products that make the world a better place. I thrive on Web Development and DevOps, and I’m constantly polishing my skills in DevOps. Recently, I’ve started diving into Salesforce development to broaden my expertise and get my hands dirty with new challenges.
 
 
 # 💻 Tech Stack:
