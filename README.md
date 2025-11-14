@@ -7,7 +7,7 @@
   margin:auto;
 ">
   <img 
-    src="./banner.jpg" 
+    src="./new.png" 
     alt="Rishit banner"
     style="width:100%;height:auto;display:block;object-fit:cover;"
   />
